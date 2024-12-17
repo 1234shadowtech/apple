@@ -1,0 +1,6 @@
+File received from ('192.168.1.10', 57100): IP_address.cpython-37.pyc (226 bytes)
+File received from ('192.168.1.10', 57100): server.py (909 bytes)
+File received from ('192.168.1.10', 57142): practice.py (3690 bytes)
+File received from ('192.168.1.10', 57183): IP_address.py (321 bytes)
+File received from ('192.168.1.10', 57186): server.py (909 bytes)
+Error handling client ('192.168.1.10', 57186): [WinError 10054] An existing connection was forcibly closed by the remote host
